@@ -685,6 +685,10 @@
                 "0": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
+                },
+                "1": {
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -874,6 +878,10 @@
             "layers": {
                 "0": {
                     "key": "CTRL",
+                    "label": "LCTRL"
+                },
+                "1": {
+                    "key": "LCTRL",
                     "label": "LCTRL"
                 }
             }
