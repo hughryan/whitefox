@@ -4,5 +4,5 @@ Installation documentation: https://github.com/kiibohd/controller/wiki/Loading-D
 
 ###MacOS Install
 brew install dfu-util  
-<Press button on underside of keyboard>  
+*Press button on underside of keyboard*  
 dfu-util -D kiibohd.dfu.bin  
